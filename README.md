@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# Netflix Frontend Clone
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### npm install
+Installs all the necessary dependencies and packages required to run the app 
 
 ### `npm start`
 
