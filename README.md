@@ -18,7 +18,9 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### Laptop Screen
-![](/src/Assets/netflix.png)
+![](/src/Assets/Laptop.jpg)
+### Mobile Screen
+![](/src/Assets/Mobile.jpg)
 
 ### `npm test`
 
