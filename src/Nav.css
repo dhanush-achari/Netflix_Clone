@@ -1,0 +1,35 @@
+.nav {
+  /* coverts colums to rows */
+  display: flex;
+  /* If you want the nav bar to stick */
+  position: fixed;
+  /* Makes sure its stciking to top */
+  top: 0;
+  /* automatically space between */
+  justify-content: space-between;
+  /* Justify space doesnt work aometime so give width */
+  width: 100%;
+
+  /* to procide spacing to the contents of nav from the whole nav */
+  padding: 7px;
+
+  /* Animation */
+  transition-timing-function: ease-in;
+  transition: all 0.5s;
+}
+
+.netflix {
+  width: 80px;
+  object-fit: contain;
+  margin-left: 20px;
+}
+
+.nav__black {
+  background-color: rgb(27, 27, 27);
+  margin-left: 0;
+}
+.user {
+  width: 30px;
+  object-fit: contain;
+  margin-right: 20px;
+}
